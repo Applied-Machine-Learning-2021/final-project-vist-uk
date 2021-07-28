@@ -14,7 +14,7 @@ Developed by:
 - [Patricia Garcia](https://github.com/pagarc134) - `University of Southern California` 
 
 Mentor:
-- [Tasmia Tarin](https://github.com/tasmiatasrin) - `STUDENTS_UNIVERSITY`
+- [Tasmia Tarin](https://github.com/tasmiatasrin) - `University of Kentucky`
 
 ## Description
 <!--
