@@ -19,10 +19,11 @@ Mentor:
 ## Description
 <!--
 Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations.
-Using neural networks to generate captions of images in the VIST dataset. 
+
+-->Using neural networks to generate captions of images in the VIST dataset. 
 
 https://github.com/sultanalnahian/Reverse-Frogger-A3PS/tree/main/advice%20generator
--->
+
 
 ## Usage instructions
 <!--
