@@ -12,6 +12,7 @@ Developed by:
 - [Javi Cardenas](https://github.com/javic99) - `University of Illinois at Urbana-Champaign`
 - [Jalen Collins](https://github.com/kingjalen22) - `University of Kentucky` 
 - [Patricia Garcia](https://github.com/pagarc134) - `University of Southern California` 
+
 Mentor:
 - [Tasmia Tarin](https://github.com/tasmiatasrin) - `STUDENTS_UNIVERSITY`
 
