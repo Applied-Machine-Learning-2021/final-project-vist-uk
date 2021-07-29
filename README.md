@@ -29,7 +29,13 @@ https://github.com/sultanalnahian/Reverse-Frogger-A3PS/tree/main/advice%20genera
 ## Usage instructions
 <!--
 Give details on how to install fork and install your project. You can get all of the python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.
--->
+-->The `vist_requirements.txt` file should list all Python libraries that your notebooks
+depend on, and they will be installed using:
+
+```
+pip install -r vist_requirements.txt
+```
+
 1. Fork this repo
 2. Change directories into your project
 3. On the command line, type `pip3 install requirements.txt`
