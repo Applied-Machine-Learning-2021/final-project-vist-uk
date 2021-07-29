@@ -24,6 +24,7 @@ Give a short description on what your project accomplishes and what tools is use
 
 https://github.com/sultanalnahian/Reverse-Frogger-A3PS/tree/main/advice%20generator
 
+![image](https://user-images.githubusercontent.com/85462843/127542049-f0e734c2-d5d3-4c33-8b45-a1f6a9b101ed.png)
 
 ## Usage instructions
 <!--
