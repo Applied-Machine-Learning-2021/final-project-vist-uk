@@ -22,7 +22,7 @@ Give a short description on what your project accomplishes and what tools is use
 
 -->Using neural networks to generate story captions of images in the VIST dataset. 
 
-https://github.com/sultanalnahian/Reverse-Frogger-A3PS/tree/main/advice%20generator
+
 
 ![image](https://user-images.githubusercontent.com/85462843/128641293-c6e55376-c23f-469f-863a-681679dbe761.png)
 
@@ -56,4 +56,5 @@ Make sure that you have downloaded the dictionaries folder to have the keys used
 From there, you should have everything to run the model. Below you'll see the architechture that the model follows.
 ![image](https://user-images.githubusercontent.com/85462843/128641227-e77d6edf-4439-4339-90e3-ab7ca61c7f69.png)
 
-
+# References 
+https://github.com/sultanalnahian/Reverse-Frogger-A3PS/tree/main/advice%20generator
