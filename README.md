@@ -45,5 +45,11 @@ pip install -r vist_requirements.txt
 
 ## How To Use
 # Preprocessing 
-Pickle images that you are using, using Resnet50.py and place them in a folder as your pickled image directory
+Pickle images that you are using, using Resnet50FeatureExtraction.ipynb and place them in a folder as your pickled image directory
 Make sure that you have downloaded the dictionaries folder to have the keys used in the main code. 
+# Code Implementation 
+
+# Model
+From there, you should have everything to run the model. Below you'll see the architechture that the model follows.
+
+
