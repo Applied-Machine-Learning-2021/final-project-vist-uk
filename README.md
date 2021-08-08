@@ -23,9 +23,9 @@ Give a short description on what your project accomplishes and what tools is use
 -->Using neural networks to generate story captions of images in the VIST dataset. 
 
 
-
+# Goal
 ![image](https://user-images.githubusercontent.com/85462843/128641293-c6e55376-c23f-469f-863a-681679dbe761.png)
-
+# The Difference between Image Captioning and Visual Storytelling
 ![image](https://user-images.githubusercontent.com/85462843/127542049-f0e734c2-d5d3-4c33-8b45-a1f6a9b101ed.png)
 ![image](https://user-images.githubusercontent.com/85462843/128640611-6e2522d0-01f9-48eb-9e3d-fa67a422120a.png)
 
