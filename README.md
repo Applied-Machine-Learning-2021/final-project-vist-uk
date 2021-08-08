@@ -43,4 +43,7 @@ pip install -r vist_requirements.txt
 3. On the command line, type `pip3 install requirements.txt`
 4. ....
 
-###How To Use
+##How To Use
+#Preprocessing 
+Pickle images that you are using, using Resnet50.py and place them in a folder as your pickled image directory
+Make sure that you have downloaded the dictionaries folder to have the keys used in the main code. 
